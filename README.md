@@ -3,7 +3,7 @@
 ## Table of Contents
 - [Introduction](#introduction)
 - [System Architecture](#system-architecture)
-- [What You'll Learn](#what-youll-learn)
+- [What I Learn](#what-youll-learn)
 
 ## Introduction
 
@@ -22,7 +22,7 @@ The project is designed with the following components:
 - **Kafka Connect**: For connecting to elasticsearch
 - **Elasticsearch**: For indexing and querying
 
-## What You'll Learn
+## What I Learn
 
 - Setting up data pipeline with TCP/IP 
 - Real-time data streaming with Apache Kafka
